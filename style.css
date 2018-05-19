@@ -66,6 +66,7 @@ nav ul li a{
 }
 .title{
 	padding-top:100px;
+	text-align:center;
 }
 .homepage{
 	font-size: 30px;
@@ -179,4 +180,13 @@ nav ul li a{
 	bottom:25px;
 	text-align: center;
 	right:65px;
+}
+.restrictedimg{
+	width:500px;
+	height:300px;
+}
+.warning{
+	font-size:75px;
+	padding-top:100px;
+	font-family:"impact"
 }
