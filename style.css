@@ -1,0 +1,182 @@
+p{
+	color:#2d8ae1; text-align:center;
+}
+h1{
+	color:#2d8ae1; text-align:center;
+}
+h2{
+	color: solid white; 
+  	text-align:center;
+  	background-color:solid white;
+  	border-radius:5px;
+}
+body{
+	background-color:white;
+}
+img{
+	display:block; margin:auto;
+}
+nav{
+	background-color: #2d8ae1;
+	position: fixed;
+	width:100%;
+	left:0px;
+
+}
+nav ul{
+	text-align: center;
+	list-style: none;
+
+
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 25px;
+
+}
+
+
+
+.special1{
+	border: 2px solid white;
+	background-color:white;
+	color:#2d8ae1;
+}
+.special2{
+	border: 2px solid white;
+}
+
+.special2:hover{
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	border: 2px solid white;
+	margin: 10px;
+  color: #2d8ae1;
+	border-radius: 25px;
+	background-color: white;	
+}
+.title{
+	padding-top:100px;
+}
+.homepage{
+	font-size: 30px;
+}
+.pad{
+	padding-bottom: 100px;
+}
+
+.button{
+	background-color: #2d8ae1;
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+}
+.button2{
+	background-color: #f2550d;
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+}
+.button3 {
+	background-color: #00FF00;
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+}
+.button4{
+	background-color: purple;
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+}
+
+.hashtags{
+	font-size: 25px;
+	text-align:center;
+	color:#2d8ae1;
+}
+
+.camemailspecial {
+	font-size: 30px;
+	color:#fdb27c;
+}
+.bios {
+	font-size:25px;
+	border-left:100px solid white;
+	border-right:100px solid white;
+}
+
+.insta{
+	width:50px;
+	height:50px;
+	position:fixed;
+	background-color:#2d8ae1;
+	border-radius:.25px;
+	left:5px;
+	bottom:25px;
+}
+#bottombar {
+    position:fixed;
+    bottom:15px;
+    background-color:#2d8ae1;
+    height:40px;
+    width:100%;
+    padding:15px;
+    border: 0px;
+    margin: 0px;
+    color: white;
+    margin:auto;
+    left:0px;
+}
+
+.random {
+	background-color:#2d8ae1;
+	border-radius:20px;
+	width:50%;
+  	color:white;
+  	margin: auto;
+  	border:20px #2d8ae1; 
+}
+
+.memes {
+	width: 400px;
+	height:400px;
+	margin:auto;
+}
+
+#thanks {
+	position:fixed;
+	margin:auto;
+	font-size: 11px;
+	color: white;
+	width:200px;
+	bottom:25px;
+	text-align: center;
+	left:65px;
+}
+.bandclogo{
+	width:50px;
+	height:50px;
+	position:fixed;
+	background-color:#2d8ae1;
+	left:5px;
+	bottom:25px;
+}
+#copyright{
+	position:fixed;
+	font-size: 10px;
+	color: white;
+	width:175px;
+	bottom:25px;
+	text-align: center;
+	right:65px;
+}
