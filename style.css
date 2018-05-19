@@ -1,8 +1,8 @@
 p{
-	color:#2d8ae1; text-align:center;
+	color: red; text-align:center;
 }
 h1{
-	color:#2d8ae1; text-align:center;
+	color: red; text-align:center;
 }
 h2{
 	color: solid white; 
@@ -17,7 +17,7 @@ img{
 	display:block; margin:auto;
 }
 nav{
-	background-color: #2d8ae1;
+	background-color: red;
 	position: fixed;
 	width:100%;
 	left:0px;
@@ -47,7 +47,7 @@ nav ul li a{
 .special1{
 	border: 2px solid white;
 	background-color:white;
-	color:#2d8ae1;
+	color:red;
 }
 .special2{
 	border: 2px solid white;
@@ -60,7 +60,7 @@ nav ul li a{
 	padding: 10px;
 	border: 2px solid white;
 	margin: 10px;
-  color: #2d8ae1;
+  color: red;
 	border-radius: 25px;
 	background-color: white;	
 }
@@ -75,7 +75,7 @@ nav ul li a{
 }
 
 .button{
-	background-color: #2d8ae1;
+	background-color: red;
 	width:150px;
 	height:150px;
 	border-radius: 75px;
@@ -102,7 +102,7 @@ nav ul li a{
 .hashtags{
 	font-size: 25px;
 	text-align:center;
-	color:#2d8ae1;
+	color:red;
 }
 
 .camemailspecial {
@@ -119,7 +119,7 @@ nav ul li a{
 	width:50px;
 	height:50px;
 	position:fixed;
-	background-color:#2d8ae1;
+	background-color:red;
 	border-radius:.25px;
 	left:5px;
 	bottom:25px;
@@ -127,7 +127,7 @@ nav ul li a{
 #bottombar {
     position:fixed;
     bottom:15px;
-    background-color:#2d8ae1;
+    background-color:red;
     height:40px;
     width:100%;
     padding:15px;
@@ -139,12 +139,12 @@ nav ul li a{
 }
 
 .random {
-	background-color:#2d8ae1;
+	background-color:red;
 	border-radius:20px;
 	width:50%;
   	color:white;
   	margin: auto;
-  	border:20px #2d8ae1; 
+  	border:20px red; 
 }
 
 .memes {
@@ -159,7 +159,7 @@ nav ul li a{
 	font-size: 11px;
 	color: white;
 	width:200px;
-	bottom:25px;
+	bottom:37.5px;
 	text-align: center;
 	left:65px;
 }
@@ -167,7 +167,7 @@ nav ul li a{
 	width:50px;
 	height:50px;
 	position:fixed;
-	background-color:#2d8ae1;
+	background-color:red;
 	left:5px;
 	bottom:25px;
 }
